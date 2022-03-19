@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AnoRebel/TurnUp-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AnoRebel/TurnUp-Backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/AnoRebel/TurnUp-Mobile.git
